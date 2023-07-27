@@ -1,0 +1,14 @@
+.house {
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    text-decoration: none;
+}
+
+.button {
+    position: absolute;
+    right: 70px;
+    top: 45px;
+    background-color: transparent;
+    cursor: pointer;
+}
